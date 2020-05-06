@@ -1,0 +1,12 @@
+name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc
+"K Shukusha",K.SHUKUSHA,,3514.820N,13640.541E,10.0m,1,,,,
+"Bunka Center",BUNKA CENTER,,3513.070N,13638.340E,10.0m,1,,,,
+"Imao Bashi",IMAO BRDG,,3514.873N,13637.058E,10.0m,1,,,,
+"Fukuoka Oh-hashi",FUKUOKA BRDG,,3513.270N,13636.908E,10.0m,1,,,,
+"Gifu Hashima IC",GIFU HASHIMA IC,,3518.446N,13641.496E,10.0m,1,,,,
+"Haginaga Bashi",HAGINAGA BRDG,,3528.370N,13634.263E,10.0m,1,,,,
+"Inokuchi Bashi",INOKUCHI BRDG,,3529.322N,13632.628E,10.0m,1,,,,
+"Undou Kouen",UNDOU KOUEN,,3529.197N,13637.376E,10.0m,1,,,,
+"Ohno Bashi",OHNO BRDG,,3529.167N,13639.582E,10.0m,1,,,,
+"Ohno-cho Yakuba",OHNO TOWN HALL,,3528.237N,13637.638E,10.0m,1,,,,
+"Neogawa Oh-hashi",NEOGAWA BRDG,,3525.857N,13637.970E,10.0m,1,,,,
