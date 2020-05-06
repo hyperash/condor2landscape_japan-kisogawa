@@ -1,0 +1,793 @@
+<VRTDataset rasterXSize="48498" rasterYSize="41406">
+  <SRS dataAxisToSRSAxisMapping="2,1">GEOGCS["WGS 84",DATUM["WGS_1984",SPHEROID["WGS 84",6378137,298.25722356049,AUTHORITY["EPSG","7030"]],AUTHORITY["EPSG","6326"]],PRIMEM["Greenwich",0],UNIT["degree",0.0174532925199433,AUTHORITY["EPSG","9122"]],AXIS["Latitude",NORTH],AXIS["Longitude",EAST],AUTHORITY["EPSG","4326"]]</SRS>
+  <GeoTransform>  1.3638974368572235e+02,  1.0728836059570313e-05,  0.0000000000000000e+00,  3.5545454621315002e+01,  0.0000000000000000e+00, -1.0728836059570313e-05</GeoTransform>
+  <VRTRasterBand dataType="Byte" band="1">
+    <Metadata>
+      <MDI key="STATISTICS_APPROXIMATE">YES</MDI>
+      <MDI key="STATISTICS_MAXIMUM">255</MDI>
+      <MDI key="STATISTICS_MEAN">97.560913739186</MDI>
+      <MDI key="STATISTICS_MINIMUM">0</MDI>
+      <MDI key="STATISTICS_STDDEV">40.110975184113</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+    <ColorInterp>Red</ColorInterp>
+    <SimpleSource resampling="nearest">
+      <SourceFilename relativeToVRT="0">D:\Games\Condor2\Landscapes\Japan-Kisogawa\Working\Map\data_raster\Japan-Kisogawa_1-1.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="8083" RasterYSize="6901" DataType="Byte" BlockXSize="8083" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="8083" ySize="6901" />
+      <DstRect xOff="0" yOff="0" xSize="8083" ySize="6901" />
+    </SimpleSource>
+    <SimpleSource resampling="nearest">
+      <SourceFilename relativeToVRT="0">D:\Games\Condor2\Landscapes\Japan-Kisogawa\Working\Map\data_raster\Japan-Kisogawa_1-2.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="8083" RasterYSize="6901" DataType="Byte" BlockXSize="8083" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="8083" ySize="6901" />
+      <DstRect xOff="0" yOff="6901" xSize="8083" ySize="6901" />
+    </SimpleSource>
+    <SimpleSource resampling="nearest">
+      <SourceFilename relativeToVRT="0">D:\Games\Condor2\Landscapes\Japan-Kisogawa\Working\Map\data_raster\Japan-Kisogawa_1-3.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="8083" RasterYSize="6901" DataType="Byte" BlockXSize="8083" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="8083" ySize="6901" />
+      <DstRect xOff="0" yOff="13802" xSize="8083" ySize="6901" />
+    </SimpleSource>
+    <SimpleSource resampling="nearest">
+      <SourceFilename relativeToVRT="0">D:\Games\Condor2\Landscapes\Japan-Kisogawa\Working\Map\data_raster\Japan-Kisogawa_1-4.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="8083" RasterYSize="6901" DataType="Byte" BlockXSize="8083" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="8083" ySize="6901" />
+      <DstRect xOff="0" yOff="20703" xSize="8083" ySize="6901" />
+    </SimpleSource>
+    <SimpleSource resampling="nearest">
+      <SourceFilename relativeToVRT="0">D:\Games\Condor2\Landscapes\Japan-Kisogawa\Working\Map\data_raster\Japan-Kisogawa_1-5.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="8083" RasterYSize="6901" DataType="Byte" BlockXSize="8083" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="8083" ySize="6901" />
+      <DstRect xOff="0" yOff="27604" xSize="8083" ySize="6901" />
+    </SimpleSource>
+    <SimpleSource resampling="nearest">
+      <SourceFilename relativeToVRT="0">D:\Games\Condor2\Landscapes\Japan-Kisogawa\Working\Map\data_raster\Japan-Kisogawa_1-6.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="8083" RasterYSize="6901" DataType="Byte" BlockXSize="8083" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="8083" ySize="6901" />
+      <DstRect xOff="0" yOff="34505" xSize="8083" ySize="6901" />
+    </SimpleSource>
+    <SimpleSource resampling="nearest">
+      <SourceFilename relativeToVRT="0">D:\Games\Condor2\Landscapes\Japan-Kisogawa\Working\Map\data_raster\Japan-Kisogawa_2-1.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="8083" RasterYSize="6901" DataType="Byte" BlockXSize="8083" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="8083" ySize="6901" />
+      <DstRect xOff="8083" yOff="0" xSize="8083" ySize="6901" />
+    </SimpleSource>
+    <SimpleSource resampling="nearest">
+      <SourceFilename relativeToVRT="0">D:\Games\Condor2\Landscapes\Japan-Kisogawa\Working\Map\data_raster\Japan-Kisogawa_2-2.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="8083" RasterYSize="6901" DataType="Byte" BlockXSize="8083" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="8083" ySize="6901" />
+      <DstRect xOff="8083" yOff="6901" xSize="8083" ySize="6901" />
+    </SimpleSource>
+    <SimpleSource resampling="nearest">
+      <SourceFilename relativeToVRT="0">D:\Games\Condor2\Landscapes\Japan-Kisogawa\Working\Map\data_raster\Japan-Kisogawa_2-3.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="8083" RasterYSize="6901" DataType="Byte" BlockXSize="8083" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="8083" ySize="6901" />
+      <DstRect xOff="8083" yOff="13802" xSize="8083" ySize="6901" />
+    </SimpleSource>
+    <SimpleSource resampling="nearest">
+      <SourceFilename relativeToVRT="0">D:\Games\Condor2\Landscapes\Japan-Kisogawa\Working\Map\data_raster\Japan-Kisogawa_2-4.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="8083" RasterYSize="6901" DataType="Byte" BlockXSize="8083" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="8083" ySize="6901" />
+      <DstRect xOff="8083" yOff="20703" xSize="8083" ySize="6901" />
+    </SimpleSource>
+    <SimpleSource resampling="nearest">
+      <SourceFilename relativeToVRT="0">D:\Games\Condor2\Landscapes\Japan-Kisogawa\Working\Map\data_raster\Japan-Kisogawa_2-5.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="8083" RasterYSize="6901" DataType="Byte" BlockXSize="8083" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="8083" ySize="6901" />
+      <DstRect xOff="8083" yOff="27604" xSize="8083" ySize="6901" />
+    </SimpleSource>
+    <SimpleSource resampling="nearest">
+      <SourceFilename relativeToVRT="0">D:\Games\Condor2\Landscapes\Japan-Kisogawa\Working\Map\data_raster\Japan-Kisogawa_2-6.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="8083" RasterYSize="6901" DataType="Byte" BlockXSize="8083" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="8083" ySize="6901" />
+      <DstRect xOff="8083" yOff="34505" xSize="8083" ySize="6901" />
+    </SimpleSource>
+    <SimpleSource resampling="nearest">
+      <SourceFilename relativeToVRT="0">D:\Games\Condor2\Landscapes\Japan-Kisogawa\Working\Map\data_raster\Japan-Kisogawa_3-1.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="8083" RasterYSize="6901" DataType="Byte" BlockXSize="8083" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="8083" ySize="6901" />
+      <DstRect xOff="16166" yOff="0" xSize="8083" ySize="6901" />
+    </SimpleSource>
+    <SimpleSource resampling="nearest">
+      <SourceFilename relativeToVRT="0">D:\Games\Condor2\Landscapes\Japan-Kisogawa\Working\Map\data_raster\Japan-Kisogawa_3-2.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="8083" RasterYSize="6901" DataType="Byte" BlockXSize="8083" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="8083" ySize="6901" />
+      <DstRect xOff="16166" yOff="6901" xSize="8083" ySize="6901" />
+    </SimpleSource>
+    <SimpleSource resampling="nearest">
+      <SourceFilename relativeToVRT="0">D:\Games\Condor2\Landscapes\Japan-Kisogawa\Working\Map\data_raster\Japan-Kisogawa_3-3.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="8083" RasterYSize="6901" DataType="Byte" BlockXSize="8083" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="8083" ySize="6901" />
+      <DstRect xOff="16166" yOff="13802" xSize="8083" ySize="6901" />
+    </SimpleSource>
+    <SimpleSource resampling="nearest">
+      <SourceFilename relativeToVRT="0">D:\Games\Condor2\Landscapes\Japan-Kisogawa\Working\Map\data_raster\Japan-Kisogawa_3-4.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="8083" RasterYSize="6901" DataType="Byte" BlockXSize="8083" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="8083" ySize="6901" />
+      <DstRect xOff="16166" yOff="20703" xSize="8083" ySize="6901" />
+    </SimpleSource>
+    <SimpleSource resampling="nearest">
+      <SourceFilename relativeToVRT="0">D:\Games\Condor2\Landscapes\Japan-Kisogawa\Working\Map\data_raster\Japan-Kisogawa_3-5.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="8083" RasterYSize="6901" DataType="Byte" BlockXSize="8083" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="8083" ySize="6901" />
+      <DstRect xOff="16166" yOff="27604" xSize="8083" ySize="6901" />
+    </SimpleSource>
+    <SimpleSource resampling="nearest">
+      <SourceFilename relativeToVRT="0">D:\Games\Condor2\Landscapes\Japan-Kisogawa\Working\Map\data_raster\Japan-Kisogawa_3-6.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="8083" RasterYSize="6901" DataType="Byte" BlockXSize="8083" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="8083" ySize="6901" />
+      <DstRect xOff="16166" yOff="34505" xSize="8083" ySize="6901" />
+    </SimpleSource>
+    <SimpleSource resampling="nearest">
+      <SourceFilename relativeToVRT="0">D:\Games\Condor2\Landscapes\Japan-Kisogawa\Working\Map\data_raster\Japan-Kisogawa_4-1.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="8083" RasterYSize="6901" DataType="Byte" BlockXSize="8083" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="8083" ySize="6901" />
+      <DstRect xOff="24249" yOff="0" xSize="8083" ySize="6901" />
+    </SimpleSource>
+    <SimpleSource resampling="nearest">
+      <SourceFilename relativeToVRT="0">D:\Games\Condor2\Landscapes\Japan-Kisogawa\Working\Map\data_raster\Japan-Kisogawa_4-2.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="8083" RasterYSize="6901" DataType="Byte" BlockXSize="8083" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="8083" ySize="6901" />
+      <DstRect xOff="24249" yOff="6901" xSize="8083" ySize="6901" />
+    </SimpleSource>
+    <SimpleSource resampling="nearest">
+      <SourceFilename relativeToVRT="0">D:\Games\Condor2\Landscapes\Japan-Kisogawa\Working\Map\data_raster\Japan-Kisogawa_4-3.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="8083" RasterYSize="6901" DataType="Byte" BlockXSize="8083" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="8083" ySize="6901" />
+      <DstRect xOff="24249" yOff="13802" xSize="8083" ySize="6901" />
+    </SimpleSource>
+    <SimpleSource resampling="nearest">
+      <SourceFilename relativeToVRT="0">D:\Games\Condor2\Landscapes\Japan-Kisogawa\Working\Map\data_raster\Japan-Kisogawa_4-4.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="8083" RasterYSize="6901" DataType="Byte" BlockXSize="8083" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="8083" ySize="6901" />
+      <DstRect xOff="24249" yOff="20703" xSize="8083" ySize="6901" />
+    </SimpleSource>
+    <SimpleSource resampling="nearest">
+      <SourceFilename relativeToVRT="0">D:\Games\Condor2\Landscapes\Japan-Kisogawa\Working\Map\data_raster\Japan-Kisogawa_4-5.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="8083" RasterYSize="6901" DataType="Byte" BlockXSize="8083" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="8083" ySize="6901" />
+      <DstRect xOff="24249" yOff="27604" xSize="8083" ySize="6901" />
+    </SimpleSource>
+    <SimpleSource resampling="nearest">
+      <SourceFilename relativeToVRT="0">D:\Games\Condor2\Landscapes\Japan-Kisogawa\Working\Map\data_raster\Japan-Kisogawa_4-6.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="8083" RasterYSize="6901" DataType="Byte" BlockXSize="8083" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="8083" ySize="6901" />
+      <DstRect xOff="24249" yOff="34505" xSize="8083" ySize="6901" />
+    </SimpleSource>
+    <SimpleSource resampling="nearest">
+      <SourceFilename relativeToVRT="0">D:\Games\Condor2\Landscapes\Japan-Kisogawa\Working\Map\data_raster\Japan-Kisogawa_5-1.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="8083" RasterYSize="6901" DataType="Byte" BlockXSize="8083" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="8083" ySize="6901" />
+      <DstRect xOff="32332" yOff="0" xSize="8083" ySize="6901" />
+    </SimpleSource>
+    <SimpleSource resampling="nearest">
+      <SourceFilename relativeToVRT="0">D:\Games\Condor2\Landscapes\Japan-Kisogawa\Working\Map\data_raster\Japan-Kisogawa_5-2.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="8083" RasterYSize="6901" DataType="Byte" BlockXSize="8083" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="8083" ySize="6901" />
+      <DstRect xOff="32332" yOff="6901" xSize="8083" ySize="6901" />
+    </SimpleSource>
+    <SimpleSource resampling="nearest">
+      <SourceFilename relativeToVRT="0">D:\Games\Condor2\Landscapes\Japan-Kisogawa\Working\Map\data_raster\Japan-Kisogawa_5-3.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="8083" RasterYSize="6901" DataType="Byte" BlockXSize="8083" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="8083" ySize="6901" />
+      <DstRect xOff="32332" yOff="13802" xSize="8083" ySize="6901" />
+    </SimpleSource>
+    <SimpleSource resampling="nearest">
+      <SourceFilename relativeToVRT="0">D:\Games\Condor2\Landscapes\Japan-Kisogawa\Working\Map\data_raster\Japan-Kisogawa_5-4.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="8083" RasterYSize="6901" DataType="Byte" BlockXSize="8083" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="8083" ySize="6901" />
+      <DstRect xOff="32332" yOff="20703" xSize="8083" ySize="6901" />
+    </SimpleSource>
+    <SimpleSource resampling="nearest">
+      <SourceFilename relativeToVRT="0">D:\Games\Condor2\Landscapes\Japan-Kisogawa\Working\Map\data_raster\Japan-Kisogawa_5-5.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="8083" RasterYSize="6901" DataType="Byte" BlockXSize="8083" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="8083" ySize="6901" />
+      <DstRect xOff="32332" yOff="27604" xSize="8083" ySize="6901" />
+    </SimpleSource>
+    <SimpleSource resampling="nearest">
+      <SourceFilename relativeToVRT="0">D:\Games\Condor2\Landscapes\Japan-Kisogawa\Working\Map\data_raster\Japan-Kisogawa_5-6.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="8083" RasterYSize="6901" DataType="Byte" BlockXSize="8083" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="8083" ySize="6901" />
+      <DstRect xOff="32332" yOff="34505" xSize="8083" ySize="6901" />
+    </SimpleSource>
+    <SimpleSource resampling="nearest">
+      <SourceFilename relativeToVRT="0">D:\Games\Condor2\Landscapes\Japan-Kisogawa\Working\Map\data_raster\Japan-Kisogawa_6-1.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="8083" RasterYSize="6901" DataType="Byte" BlockXSize="8083" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="8083" ySize="6901" />
+      <DstRect xOff="40415" yOff="0" xSize="8083" ySize="6901" />
+    </SimpleSource>
+    <SimpleSource resampling="nearest">
+      <SourceFilename relativeToVRT="0">D:\Games\Condor2\Landscapes\Japan-Kisogawa\Working\Map\data_raster\Japan-Kisogawa_6-2.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="8083" RasterYSize="6901" DataType="Byte" BlockXSize="8083" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="8083" ySize="6901" />
+      <DstRect xOff="40415" yOff="6901" xSize="8083" ySize="6901" />
+    </SimpleSource>
+    <SimpleSource resampling="nearest">
+      <SourceFilename relativeToVRT="0">D:\Games\Condor2\Landscapes\Japan-Kisogawa\Working\Map\data_raster\Japan-Kisogawa_6-3.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="8083" RasterYSize="6901" DataType="Byte" BlockXSize="8083" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="8083" ySize="6901" />
+      <DstRect xOff="40415" yOff="13802" xSize="8083" ySize="6901" />
+    </SimpleSource>
+    <SimpleSource resampling="nearest">
+      <SourceFilename relativeToVRT="0">D:\Games\Condor2\Landscapes\Japan-Kisogawa\Working\Map\data_raster\Japan-Kisogawa_6-4.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="8083" RasterYSize="6901" DataType="Byte" BlockXSize="8083" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="8083" ySize="6901" />
+      <DstRect xOff="40415" yOff="20703" xSize="8083" ySize="6901" />
+    </SimpleSource>
+    <SimpleSource resampling="nearest">
+      <SourceFilename relativeToVRT="0">D:\Games\Condor2\Landscapes\Japan-Kisogawa\Working\Map\data_raster\Japan-Kisogawa_6-5.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="8083" RasterYSize="6901" DataType="Byte" BlockXSize="8083" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="8083" ySize="6901" />
+      <DstRect xOff="40415" yOff="27604" xSize="8083" ySize="6901" />
+    </SimpleSource>
+    <SimpleSource resampling="nearest">
+      <SourceFilename relativeToVRT="0">D:\Games\Condor2\Landscapes\Japan-Kisogawa\Working\Map\data_raster\Japan-Kisogawa_6-6.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="8083" RasterYSize="6901" DataType="Byte" BlockXSize="8083" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="8083" ySize="6901" />
+      <DstRect xOff="40415" yOff="34505" xSize="8083" ySize="6901" />
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Byte" band="2">
+    <Metadata>
+      <MDI key="STATISTICS_APPROXIMATE">YES</MDI>
+      <MDI key="STATISTICS_MAXIMUM">255</MDI>
+      <MDI key="STATISTICS_MEAN">101.61579547165</MDI>
+      <MDI key="STATISTICS_MINIMUM">0</MDI>
+      <MDI key="STATISTICS_STDDEV">36.430416911063</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+    <ColorInterp>Green</ColorInterp>
+    <SimpleSource resampling="nearest">
+      <SourceFilename relativeToVRT="0">D:\Games\Condor2\Landscapes\Japan-Kisogawa\Working\Map\data_raster\Japan-Kisogawa_1-1.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="8083" RasterYSize="6901" DataType="Byte" BlockXSize="8083" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="8083" ySize="6901" />
+      <DstRect xOff="0" yOff="0" xSize="8083" ySize="6901" />
+    </SimpleSource>
+    <SimpleSource resampling="nearest">
+      <SourceFilename relativeToVRT="0">D:\Games\Condor2\Landscapes\Japan-Kisogawa\Working\Map\data_raster\Japan-Kisogawa_1-2.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="8083" RasterYSize="6901" DataType="Byte" BlockXSize="8083" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="8083" ySize="6901" />
+      <DstRect xOff="0" yOff="6901" xSize="8083" ySize="6901" />
+    </SimpleSource>
+    <SimpleSource resampling="nearest">
+      <SourceFilename relativeToVRT="0">D:\Games\Condor2\Landscapes\Japan-Kisogawa\Working\Map\data_raster\Japan-Kisogawa_1-3.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="8083" RasterYSize="6901" DataType="Byte" BlockXSize="8083" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="8083" ySize="6901" />
+      <DstRect xOff="0" yOff="13802" xSize="8083" ySize="6901" />
+    </SimpleSource>
+    <SimpleSource resampling="nearest">
+      <SourceFilename relativeToVRT="0">D:\Games\Condor2\Landscapes\Japan-Kisogawa\Working\Map\data_raster\Japan-Kisogawa_1-4.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="8083" RasterYSize="6901" DataType="Byte" BlockXSize="8083" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="8083" ySize="6901" />
+      <DstRect xOff="0" yOff="20703" xSize="8083" ySize="6901" />
+    </SimpleSource>
+    <SimpleSource resampling="nearest">
+      <SourceFilename relativeToVRT="0">D:\Games\Condor2\Landscapes\Japan-Kisogawa\Working\Map\data_raster\Japan-Kisogawa_1-5.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="8083" RasterYSize="6901" DataType="Byte" BlockXSize="8083" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="8083" ySize="6901" />
+      <DstRect xOff="0" yOff="27604" xSize="8083" ySize="6901" />
+    </SimpleSource>
+    <SimpleSource resampling="nearest">
+      <SourceFilename relativeToVRT="0">D:\Games\Condor2\Landscapes\Japan-Kisogawa\Working\Map\data_raster\Japan-Kisogawa_1-6.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="8083" RasterYSize="6901" DataType="Byte" BlockXSize="8083" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="8083" ySize="6901" />
+      <DstRect xOff="0" yOff="34505" xSize="8083" ySize="6901" />
+    </SimpleSource>
+    <SimpleSource resampling="nearest">
+      <SourceFilename relativeToVRT="0">D:\Games\Condor2\Landscapes\Japan-Kisogawa\Working\Map\data_raster\Japan-Kisogawa_2-1.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="8083" RasterYSize="6901" DataType="Byte" BlockXSize="8083" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="8083" ySize="6901" />
+      <DstRect xOff="8083" yOff="0" xSize="8083" ySize="6901" />
+    </SimpleSource>
+    <SimpleSource resampling="nearest">
+      <SourceFilename relativeToVRT="0">D:\Games\Condor2\Landscapes\Japan-Kisogawa\Working\Map\data_raster\Japan-Kisogawa_2-2.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="8083" RasterYSize="6901" DataType="Byte" BlockXSize="8083" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="8083" ySize="6901" />
+      <DstRect xOff="8083" yOff="6901" xSize="8083" ySize="6901" />
+    </SimpleSource>
+    <SimpleSource resampling="nearest">
+      <SourceFilename relativeToVRT="0">D:\Games\Condor2\Landscapes\Japan-Kisogawa\Working\Map\data_raster\Japan-Kisogawa_2-3.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="8083" RasterYSize="6901" DataType="Byte" BlockXSize="8083" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="8083" ySize="6901" />
+      <DstRect xOff="8083" yOff="13802" xSize="8083" ySize="6901" />
+    </SimpleSource>
+    <SimpleSource resampling="nearest">
+      <SourceFilename relativeToVRT="0">D:\Games\Condor2\Landscapes\Japan-Kisogawa\Working\Map\data_raster\Japan-Kisogawa_2-4.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="8083" RasterYSize="6901" DataType="Byte" BlockXSize="8083" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="8083" ySize="6901" />
+      <DstRect xOff="8083" yOff="20703" xSize="8083" ySize="6901" />
+    </SimpleSource>
+    <SimpleSource resampling="nearest">
+      <SourceFilename relativeToVRT="0">D:\Games\Condor2\Landscapes\Japan-Kisogawa\Working\Map\data_raster\Japan-Kisogawa_2-5.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="8083" RasterYSize="6901" DataType="Byte" BlockXSize="8083" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="8083" ySize="6901" />
+      <DstRect xOff="8083" yOff="27604" xSize="8083" ySize="6901" />
+    </SimpleSource>
+    <SimpleSource resampling="nearest">
+      <SourceFilename relativeToVRT="0">D:\Games\Condor2\Landscapes\Japan-Kisogawa\Working\Map\data_raster\Japan-Kisogawa_2-6.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="8083" RasterYSize="6901" DataType="Byte" BlockXSize="8083" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="8083" ySize="6901" />
+      <DstRect xOff="8083" yOff="34505" xSize="8083" ySize="6901" />
+    </SimpleSource>
+    <SimpleSource resampling="nearest">
+      <SourceFilename relativeToVRT="0">D:\Games\Condor2\Landscapes\Japan-Kisogawa\Working\Map\data_raster\Japan-Kisogawa_3-1.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="8083" RasterYSize="6901" DataType="Byte" BlockXSize="8083" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="8083" ySize="6901" />
+      <DstRect xOff="16166" yOff="0" xSize="8083" ySize="6901" />
+    </SimpleSource>
+    <SimpleSource resampling="nearest">
+      <SourceFilename relativeToVRT="0">D:\Games\Condor2\Landscapes\Japan-Kisogawa\Working\Map\data_raster\Japan-Kisogawa_3-2.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="8083" RasterYSize="6901" DataType="Byte" BlockXSize="8083" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="8083" ySize="6901" />
+      <DstRect xOff="16166" yOff="6901" xSize="8083" ySize="6901" />
+    </SimpleSource>
+    <SimpleSource resampling="nearest">
+      <SourceFilename relativeToVRT="0">D:\Games\Condor2\Landscapes\Japan-Kisogawa\Working\Map\data_raster\Japan-Kisogawa_3-3.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="8083" RasterYSize="6901" DataType="Byte" BlockXSize="8083" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="8083" ySize="6901" />
+      <DstRect xOff="16166" yOff="13802" xSize="8083" ySize="6901" />
+    </SimpleSource>
+    <SimpleSource resampling="nearest">
+      <SourceFilename relativeToVRT="0">D:\Games\Condor2\Landscapes\Japan-Kisogawa\Working\Map\data_raster\Japan-Kisogawa_3-4.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="8083" RasterYSize="6901" DataType="Byte" BlockXSize="8083" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="8083" ySize="6901" />
+      <DstRect xOff="16166" yOff="20703" xSize="8083" ySize="6901" />
+    </SimpleSource>
+    <SimpleSource resampling="nearest">
+      <SourceFilename relativeToVRT="0">D:\Games\Condor2\Landscapes\Japan-Kisogawa\Working\Map\data_raster\Japan-Kisogawa_3-5.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="8083" RasterYSize="6901" DataType="Byte" BlockXSize="8083" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="8083" ySize="6901" />
+      <DstRect xOff="16166" yOff="27604" xSize="8083" ySize="6901" />
+    </SimpleSource>
+    <SimpleSource resampling="nearest">
+      <SourceFilename relativeToVRT="0">D:\Games\Condor2\Landscapes\Japan-Kisogawa\Working\Map\data_raster\Japan-Kisogawa_3-6.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="8083" RasterYSize="6901" DataType="Byte" BlockXSize="8083" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="8083" ySize="6901" />
+      <DstRect xOff="16166" yOff="34505" xSize="8083" ySize="6901" />
+    </SimpleSource>
+    <SimpleSource resampling="nearest">
+      <SourceFilename relativeToVRT="0">D:\Games\Condor2\Landscapes\Japan-Kisogawa\Working\Map\data_raster\Japan-Kisogawa_4-1.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="8083" RasterYSize="6901" DataType="Byte" BlockXSize="8083" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="8083" ySize="6901" />
+      <DstRect xOff="24249" yOff="0" xSize="8083" ySize="6901" />
+    </SimpleSource>
+    <SimpleSource resampling="nearest">
+      <SourceFilename relativeToVRT="0">D:\Games\Condor2\Landscapes\Japan-Kisogawa\Working\Map\data_raster\Japan-Kisogawa_4-2.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="8083" RasterYSize="6901" DataType="Byte" BlockXSize="8083" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="8083" ySize="6901" />
+      <DstRect xOff="24249" yOff="6901" xSize="8083" ySize="6901" />
+    </SimpleSource>
+    <SimpleSource resampling="nearest">
+      <SourceFilename relativeToVRT="0">D:\Games\Condor2\Landscapes\Japan-Kisogawa\Working\Map\data_raster\Japan-Kisogawa_4-3.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="8083" RasterYSize="6901" DataType="Byte" BlockXSize="8083" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="8083" ySize="6901" />
+      <DstRect xOff="24249" yOff="13802" xSize="8083" ySize="6901" />
+    </SimpleSource>
+    <SimpleSource resampling="nearest">
+      <SourceFilename relativeToVRT="0">D:\Games\Condor2\Landscapes\Japan-Kisogawa\Working\Map\data_raster\Japan-Kisogawa_4-4.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="8083" RasterYSize="6901" DataType="Byte" BlockXSize="8083" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="8083" ySize="6901" />
+      <DstRect xOff="24249" yOff="20703" xSize="8083" ySize="6901" />
+    </SimpleSource>
+    <SimpleSource resampling="nearest">
+      <SourceFilename relativeToVRT="0">D:\Games\Condor2\Landscapes\Japan-Kisogawa\Working\Map\data_raster\Japan-Kisogawa_4-5.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="8083" RasterYSize="6901" DataType="Byte" BlockXSize="8083" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="8083" ySize="6901" />
+      <DstRect xOff="24249" yOff="27604" xSize="8083" ySize="6901" />
+    </SimpleSource>
+    <SimpleSource resampling="nearest">
+      <SourceFilename relativeToVRT="0">D:\Games\Condor2\Landscapes\Japan-Kisogawa\Working\Map\data_raster\Japan-Kisogawa_4-6.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="8083" RasterYSize="6901" DataType="Byte" BlockXSize="8083" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="8083" ySize="6901" />
+      <DstRect xOff="24249" yOff="34505" xSize="8083" ySize="6901" />
+    </SimpleSource>
+    <SimpleSource resampling="nearest">
+      <SourceFilename relativeToVRT="0">D:\Games\Condor2\Landscapes\Japan-Kisogawa\Working\Map\data_raster\Japan-Kisogawa_5-1.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="8083" RasterYSize="6901" DataType="Byte" BlockXSize="8083" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="8083" ySize="6901" />
+      <DstRect xOff="32332" yOff="0" xSize="8083" ySize="6901" />
+    </SimpleSource>
+    <SimpleSource resampling="nearest">
+      <SourceFilename relativeToVRT="0">D:\Games\Condor2\Landscapes\Japan-Kisogawa\Working\Map\data_raster\Japan-Kisogawa_5-2.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="8083" RasterYSize="6901" DataType="Byte" BlockXSize="8083" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="8083" ySize="6901" />
+      <DstRect xOff="32332" yOff="6901" xSize="8083" ySize="6901" />
+    </SimpleSource>
+    <SimpleSource resampling="nearest">
+      <SourceFilename relativeToVRT="0">D:\Games\Condor2\Landscapes\Japan-Kisogawa\Working\Map\data_raster\Japan-Kisogawa_5-3.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="8083" RasterYSize="6901" DataType="Byte" BlockXSize="8083" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="8083" ySize="6901" />
+      <DstRect xOff="32332" yOff="13802" xSize="8083" ySize="6901" />
+    </SimpleSource>
+    <SimpleSource resampling="nearest">
+      <SourceFilename relativeToVRT="0">D:\Games\Condor2\Landscapes\Japan-Kisogawa\Working\Map\data_raster\Japan-Kisogawa_5-4.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="8083" RasterYSize="6901" DataType="Byte" BlockXSize="8083" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="8083" ySize="6901" />
+      <DstRect xOff="32332" yOff="20703" xSize="8083" ySize="6901" />
+    </SimpleSource>
+    <SimpleSource resampling="nearest">
+      <SourceFilename relativeToVRT="0">D:\Games\Condor2\Landscapes\Japan-Kisogawa\Working\Map\data_raster\Japan-Kisogawa_5-5.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="8083" RasterYSize="6901" DataType="Byte" BlockXSize="8083" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="8083" ySize="6901" />
+      <DstRect xOff="32332" yOff="27604" xSize="8083" ySize="6901" />
+    </SimpleSource>
+    <SimpleSource resampling="nearest">
+      <SourceFilename relativeToVRT="0">D:\Games\Condor2\Landscapes\Japan-Kisogawa\Working\Map\data_raster\Japan-Kisogawa_5-6.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="8083" RasterYSize="6901" DataType="Byte" BlockXSize="8083" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="8083" ySize="6901" />
+      <DstRect xOff="32332" yOff="34505" xSize="8083" ySize="6901" />
+    </SimpleSource>
+    <SimpleSource resampling="nearest">
+      <SourceFilename relativeToVRT="0">D:\Games\Condor2\Landscapes\Japan-Kisogawa\Working\Map\data_raster\Japan-Kisogawa_6-1.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="8083" RasterYSize="6901" DataType="Byte" BlockXSize="8083" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="8083" ySize="6901" />
+      <DstRect xOff="40415" yOff="0" xSize="8083" ySize="6901" />
+    </SimpleSource>
+    <SimpleSource resampling="nearest">
+      <SourceFilename relativeToVRT="0">D:\Games\Condor2\Landscapes\Japan-Kisogawa\Working\Map\data_raster\Japan-Kisogawa_6-2.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="8083" RasterYSize="6901" DataType="Byte" BlockXSize="8083" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="8083" ySize="6901" />
+      <DstRect xOff="40415" yOff="6901" xSize="8083" ySize="6901" />
+    </SimpleSource>
+    <SimpleSource resampling="nearest">
+      <SourceFilename relativeToVRT="0">D:\Games\Condor2\Landscapes\Japan-Kisogawa\Working\Map\data_raster\Japan-Kisogawa_6-3.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="8083" RasterYSize="6901" DataType="Byte" BlockXSize="8083" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="8083" ySize="6901" />
+      <DstRect xOff="40415" yOff="13802" xSize="8083" ySize="6901" />
+    </SimpleSource>
+    <SimpleSource resampling="nearest">
+      <SourceFilename relativeToVRT="0">D:\Games\Condor2\Landscapes\Japan-Kisogawa\Working\Map\data_raster\Japan-Kisogawa_6-4.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="8083" RasterYSize="6901" DataType="Byte" BlockXSize="8083" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="8083" ySize="6901" />
+      <DstRect xOff="40415" yOff="20703" xSize="8083" ySize="6901" />
+    </SimpleSource>
+    <SimpleSource resampling="nearest">
+      <SourceFilename relativeToVRT="0">D:\Games\Condor2\Landscapes\Japan-Kisogawa\Working\Map\data_raster\Japan-Kisogawa_6-5.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="8083" RasterYSize="6901" DataType="Byte" BlockXSize="8083" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="8083" ySize="6901" />
+      <DstRect xOff="40415" yOff="27604" xSize="8083" ySize="6901" />
+    </SimpleSource>
+    <SimpleSource resampling="nearest">
+      <SourceFilename relativeToVRT="0">D:\Games\Condor2\Landscapes\Japan-Kisogawa\Working\Map\data_raster\Japan-Kisogawa_6-6.tif</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="8083" RasterYSize="6901" DataType="Byte" BlockXSize="8083" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="8083" ySize="6901" />
+      <DstRect xOff="40415" yOff="34505" xSize="8083" ySize="6901" />
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Byte" band="3">
+    <Metadata>
+      <MDI key="STATISTICS_APPROXIMATE">YES</MDI>
+      <MDI key="STATISTICS_MAXIMUM">255</MDI>
+      <MDI key="STATISTICS_MEAN">89.105975844798</MDI>
+      <MDI key="STATISTICS_MINIMUM">0</MDI>
+      <MDI key="STATISTICS_STDDEV">36.866159533869</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+    <ColorInterp>Blue</ColorInterp>
+    <SimpleSource resampling="nearest">
+      <SourceFilename relativeToVRT="0">D:\Games\Condor2\Landscapes\Japan-Kisogawa\Working\Map\data_raster\Japan-Kisogawa_1-1.tif</SourceFilename>
+      <SourceBand>3</SourceBand>
+      <SourceProperties RasterXSize="8083" RasterYSize="6901" DataType="Byte" BlockXSize="8083" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="8083" ySize="6901" />
+      <DstRect xOff="0" yOff="0" xSize="8083" ySize="6901" />
+    </SimpleSource>
+    <SimpleSource resampling="nearest">
+      <SourceFilename relativeToVRT="0">D:\Games\Condor2\Landscapes\Japan-Kisogawa\Working\Map\data_raster\Japan-Kisogawa_1-2.tif</SourceFilename>
+      <SourceBand>3</SourceBand>
+      <SourceProperties RasterXSize="8083" RasterYSize="6901" DataType="Byte" BlockXSize="8083" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="8083" ySize="6901" />
+      <DstRect xOff="0" yOff="6901" xSize="8083" ySize="6901" />
+    </SimpleSource>
+    <SimpleSource resampling="nearest">
+      <SourceFilename relativeToVRT="0">D:\Games\Condor2\Landscapes\Japan-Kisogawa\Working\Map\data_raster\Japan-Kisogawa_1-3.tif</SourceFilename>
+      <SourceBand>3</SourceBand>
+      <SourceProperties RasterXSize="8083" RasterYSize="6901" DataType="Byte" BlockXSize="8083" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="8083" ySize="6901" />
+      <DstRect xOff="0" yOff="13802" xSize="8083" ySize="6901" />
+    </SimpleSource>
+    <SimpleSource resampling="nearest">
+      <SourceFilename relativeToVRT="0">D:\Games\Condor2\Landscapes\Japan-Kisogawa\Working\Map\data_raster\Japan-Kisogawa_1-4.tif</SourceFilename>
+      <SourceBand>3</SourceBand>
+      <SourceProperties RasterXSize="8083" RasterYSize="6901" DataType="Byte" BlockXSize="8083" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="8083" ySize="6901" />
+      <DstRect xOff="0" yOff="20703" xSize="8083" ySize="6901" />
+    </SimpleSource>
+    <SimpleSource resampling="nearest">
+      <SourceFilename relativeToVRT="0">D:\Games\Condor2\Landscapes\Japan-Kisogawa\Working\Map\data_raster\Japan-Kisogawa_1-5.tif</SourceFilename>
+      <SourceBand>3</SourceBand>
+      <SourceProperties RasterXSize="8083" RasterYSize="6901" DataType="Byte" BlockXSize="8083" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="8083" ySize="6901" />
+      <DstRect xOff="0" yOff="27604" xSize="8083" ySize="6901" />
+    </SimpleSource>
+    <SimpleSource resampling="nearest">
+      <SourceFilename relativeToVRT="0">D:\Games\Condor2\Landscapes\Japan-Kisogawa\Working\Map\data_raster\Japan-Kisogawa_1-6.tif</SourceFilename>
+      <SourceBand>3</SourceBand>
+      <SourceProperties RasterXSize="8083" RasterYSize="6901" DataType="Byte" BlockXSize="8083" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="8083" ySize="6901" />
+      <DstRect xOff="0" yOff="34505" xSize="8083" ySize="6901" />
+    </SimpleSource>
+    <SimpleSource resampling="nearest">
+      <SourceFilename relativeToVRT="0">D:\Games\Condor2\Landscapes\Japan-Kisogawa\Working\Map\data_raster\Japan-Kisogawa_2-1.tif</SourceFilename>
+      <SourceBand>3</SourceBand>
+      <SourceProperties RasterXSize="8083" RasterYSize="6901" DataType="Byte" BlockXSize="8083" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="8083" ySize="6901" />
+      <DstRect xOff="8083" yOff="0" xSize="8083" ySize="6901" />
+    </SimpleSource>
+    <SimpleSource resampling="nearest">
+      <SourceFilename relativeToVRT="0">D:\Games\Condor2\Landscapes\Japan-Kisogawa\Working\Map\data_raster\Japan-Kisogawa_2-2.tif</SourceFilename>
+      <SourceBand>3</SourceBand>
+      <SourceProperties RasterXSize="8083" RasterYSize="6901" DataType="Byte" BlockXSize="8083" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="8083" ySize="6901" />
+      <DstRect xOff="8083" yOff="6901" xSize="8083" ySize="6901" />
+    </SimpleSource>
+    <SimpleSource resampling="nearest">
+      <SourceFilename relativeToVRT="0">D:\Games\Condor2\Landscapes\Japan-Kisogawa\Working\Map\data_raster\Japan-Kisogawa_2-3.tif</SourceFilename>
+      <SourceBand>3</SourceBand>
+      <SourceProperties RasterXSize="8083" RasterYSize="6901" DataType="Byte" BlockXSize="8083" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="8083" ySize="6901" />
+      <DstRect xOff="8083" yOff="13802" xSize="8083" ySize="6901" />
+    </SimpleSource>
+    <SimpleSource resampling="nearest">
+      <SourceFilename relativeToVRT="0">D:\Games\Condor2\Landscapes\Japan-Kisogawa\Working\Map\data_raster\Japan-Kisogawa_2-4.tif</SourceFilename>
+      <SourceBand>3</SourceBand>
+      <SourceProperties RasterXSize="8083" RasterYSize="6901" DataType="Byte" BlockXSize="8083" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="8083" ySize="6901" />
+      <DstRect xOff="8083" yOff="20703" xSize="8083" ySize="6901" />
+    </SimpleSource>
+    <SimpleSource resampling="nearest">
+      <SourceFilename relativeToVRT="0">D:\Games\Condor2\Landscapes\Japan-Kisogawa\Working\Map\data_raster\Japan-Kisogawa_2-5.tif</SourceFilename>
+      <SourceBand>3</SourceBand>
+      <SourceProperties RasterXSize="8083" RasterYSize="6901" DataType="Byte" BlockXSize="8083" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="8083" ySize="6901" />
+      <DstRect xOff="8083" yOff="27604" xSize="8083" ySize="6901" />
+    </SimpleSource>
+    <SimpleSource resampling="nearest">
+      <SourceFilename relativeToVRT="0">D:\Games\Condor2\Landscapes\Japan-Kisogawa\Working\Map\data_raster\Japan-Kisogawa_2-6.tif</SourceFilename>
+      <SourceBand>3</SourceBand>
+      <SourceProperties RasterXSize="8083" RasterYSize="6901" DataType="Byte" BlockXSize="8083" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="8083" ySize="6901" />
+      <DstRect xOff="8083" yOff="34505" xSize="8083" ySize="6901" />
+    </SimpleSource>
+    <SimpleSource resampling="nearest">
+      <SourceFilename relativeToVRT="0">D:\Games\Condor2\Landscapes\Japan-Kisogawa\Working\Map\data_raster\Japan-Kisogawa_3-1.tif</SourceFilename>
+      <SourceBand>3</SourceBand>
+      <SourceProperties RasterXSize="8083" RasterYSize="6901" DataType="Byte" BlockXSize="8083" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="8083" ySize="6901" />
+      <DstRect xOff="16166" yOff="0" xSize="8083" ySize="6901" />
+    </SimpleSource>
+    <SimpleSource resampling="nearest">
+      <SourceFilename relativeToVRT="0">D:\Games\Condor2\Landscapes\Japan-Kisogawa\Working\Map\data_raster\Japan-Kisogawa_3-2.tif</SourceFilename>
+      <SourceBand>3</SourceBand>
+      <SourceProperties RasterXSize="8083" RasterYSize="6901" DataType="Byte" BlockXSize="8083" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="8083" ySize="6901" />
+      <DstRect xOff="16166" yOff="6901" xSize="8083" ySize="6901" />
+    </SimpleSource>
+    <SimpleSource resampling="nearest">
+      <SourceFilename relativeToVRT="0">D:\Games\Condor2\Landscapes\Japan-Kisogawa\Working\Map\data_raster\Japan-Kisogawa_3-3.tif</SourceFilename>
+      <SourceBand>3</SourceBand>
+      <SourceProperties RasterXSize="8083" RasterYSize="6901" DataType="Byte" BlockXSize="8083" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="8083" ySize="6901" />
+      <DstRect xOff="16166" yOff="13802" xSize="8083" ySize="6901" />
+    </SimpleSource>
+    <SimpleSource resampling="nearest">
+      <SourceFilename relativeToVRT="0">D:\Games\Condor2\Landscapes\Japan-Kisogawa\Working\Map\data_raster\Japan-Kisogawa_3-4.tif</SourceFilename>
+      <SourceBand>3</SourceBand>
+      <SourceProperties RasterXSize="8083" RasterYSize="6901" DataType="Byte" BlockXSize="8083" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="8083" ySize="6901" />
+      <DstRect xOff="16166" yOff="20703" xSize="8083" ySize="6901" />
+    </SimpleSource>
+    <SimpleSource resampling="nearest">
+      <SourceFilename relativeToVRT="0">D:\Games\Condor2\Landscapes\Japan-Kisogawa\Working\Map\data_raster\Japan-Kisogawa_3-5.tif</SourceFilename>
+      <SourceBand>3</SourceBand>
+      <SourceProperties RasterXSize="8083" RasterYSize="6901" DataType="Byte" BlockXSize="8083" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="8083" ySize="6901" />
+      <DstRect xOff="16166" yOff="27604" xSize="8083" ySize="6901" />
+    </SimpleSource>
+    <SimpleSource resampling="nearest">
+      <SourceFilename relativeToVRT="0">D:\Games\Condor2\Landscapes\Japan-Kisogawa\Working\Map\data_raster\Japan-Kisogawa_3-6.tif</SourceFilename>
+      <SourceBand>3</SourceBand>
+      <SourceProperties RasterXSize="8083" RasterYSize="6901" DataType="Byte" BlockXSize="8083" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="8083" ySize="6901" />
+      <DstRect xOff="16166" yOff="34505" xSize="8083" ySize="6901" />
+    </SimpleSource>
+    <SimpleSource resampling="nearest">
+      <SourceFilename relativeToVRT="0">D:\Games\Condor2\Landscapes\Japan-Kisogawa\Working\Map\data_raster\Japan-Kisogawa_4-1.tif</SourceFilename>
+      <SourceBand>3</SourceBand>
+      <SourceProperties RasterXSize="8083" RasterYSize="6901" DataType="Byte" BlockXSize="8083" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="8083" ySize="6901" />
+      <DstRect xOff="24249" yOff="0" xSize="8083" ySize="6901" />
+    </SimpleSource>
+    <SimpleSource resampling="nearest">
+      <SourceFilename relativeToVRT="0">D:\Games\Condor2\Landscapes\Japan-Kisogawa\Working\Map\data_raster\Japan-Kisogawa_4-2.tif</SourceFilename>
+      <SourceBand>3</SourceBand>
+      <SourceProperties RasterXSize="8083" RasterYSize="6901" DataType="Byte" BlockXSize="8083" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="8083" ySize="6901" />
+      <DstRect xOff="24249" yOff="6901" xSize="8083" ySize="6901" />
+    </SimpleSource>
+    <SimpleSource resampling="nearest">
+      <SourceFilename relativeToVRT="0">D:\Games\Condor2\Landscapes\Japan-Kisogawa\Working\Map\data_raster\Japan-Kisogawa_4-3.tif</SourceFilename>
+      <SourceBand>3</SourceBand>
+      <SourceProperties RasterXSize="8083" RasterYSize="6901" DataType="Byte" BlockXSize="8083" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="8083" ySize="6901" />
+      <DstRect xOff="24249" yOff="13802" xSize="8083" ySize="6901" />
+    </SimpleSource>
+    <SimpleSource resampling="nearest">
+      <SourceFilename relativeToVRT="0">D:\Games\Condor2\Landscapes\Japan-Kisogawa\Working\Map\data_raster\Japan-Kisogawa_4-4.tif</SourceFilename>
+      <SourceBand>3</SourceBand>
+      <SourceProperties RasterXSize="8083" RasterYSize="6901" DataType="Byte" BlockXSize="8083" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="8083" ySize="6901" />
+      <DstRect xOff="24249" yOff="20703" xSize="8083" ySize="6901" />
+    </SimpleSource>
+    <SimpleSource resampling="nearest">
+      <SourceFilename relativeToVRT="0">D:\Games\Condor2\Landscapes\Japan-Kisogawa\Working\Map\data_raster\Japan-Kisogawa_4-5.tif</SourceFilename>
+      <SourceBand>3</SourceBand>
+      <SourceProperties RasterXSize="8083" RasterYSize="6901" DataType="Byte" BlockXSize="8083" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="8083" ySize="6901" />
+      <DstRect xOff="24249" yOff="27604" xSize="8083" ySize="6901" />
+    </SimpleSource>
+    <SimpleSource resampling="nearest">
+      <SourceFilename relativeToVRT="0">D:\Games\Condor2\Landscapes\Japan-Kisogawa\Working\Map\data_raster\Japan-Kisogawa_4-6.tif</SourceFilename>
+      <SourceBand>3</SourceBand>
+      <SourceProperties RasterXSize="8083" RasterYSize="6901" DataType="Byte" BlockXSize="8083" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="8083" ySize="6901" />
+      <DstRect xOff="24249" yOff="34505" xSize="8083" ySize="6901" />
+    </SimpleSource>
+    <SimpleSource resampling="nearest">
+      <SourceFilename relativeToVRT="0">D:\Games\Condor2\Landscapes\Japan-Kisogawa\Working\Map\data_raster\Japan-Kisogawa_5-1.tif</SourceFilename>
+      <SourceBand>3</SourceBand>
+      <SourceProperties RasterXSize="8083" RasterYSize="6901" DataType="Byte" BlockXSize="8083" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="8083" ySize="6901" />
+      <DstRect xOff="32332" yOff="0" xSize="8083" ySize="6901" />
+    </SimpleSource>
+    <SimpleSource resampling="nearest">
+      <SourceFilename relativeToVRT="0">D:\Games\Condor2\Landscapes\Japan-Kisogawa\Working\Map\data_raster\Japan-Kisogawa_5-2.tif</SourceFilename>
+      <SourceBand>3</SourceBand>
+      <SourceProperties RasterXSize="8083" RasterYSize="6901" DataType="Byte" BlockXSize="8083" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="8083" ySize="6901" />
+      <DstRect xOff="32332" yOff="6901" xSize="8083" ySize="6901" />
+    </SimpleSource>
+    <SimpleSource resampling="nearest">
+      <SourceFilename relativeToVRT="0">D:\Games\Condor2\Landscapes\Japan-Kisogawa\Working\Map\data_raster\Japan-Kisogawa_5-3.tif</SourceFilename>
+      <SourceBand>3</SourceBand>
+      <SourceProperties RasterXSize="8083" RasterYSize="6901" DataType="Byte" BlockXSize="8083" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="8083" ySize="6901" />
+      <DstRect xOff="32332" yOff="13802" xSize="8083" ySize="6901" />
+    </SimpleSource>
+    <SimpleSource resampling="nearest">
+      <SourceFilename relativeToVRT="0">D:\Games\Condor2\Landscapes\Japan-Kisogawa\Working\Map\data_raster\Japan-Kisogawa_5-4.tif</SourceFilename>
+      <SourceBand>3</SourceBand>
+      <SourceProperties RasterXSize="8083" RasterYSize="6901" DataType="Byte" BlockXSize="8083" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="8083" ySize="6901" />
+      <DstRect xOff="32332" yOff="20703" xSize="8083" ySize="6901" />
+    </SimpleSource>
+    <SimpleSource resampling="nearest">
+      <SourceFilename relativeToVRT="0">D:\Games\Condor2\Landscapes\Japan-Kisogawa\Working\Map\data_raster\Japan-Kisogawa_5-5.tif</SourceFilename>
+      <SourceBand>3</SourceBand>
+      <SourceProperties RasterXSize="8083" RasterYSize="6901" DataType="Byte" BlockXSize="8083" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="8083" ySize="6901" />
+      <DstRect xOff="32332" yOff="27604" xSize="8083" ySize="6901" />
+    </SimpleSource>
+    <SimpleSource resampling="nearest">
+      <SourceFilename relativeToVRT="0">D:\Games\Condor2\Landscapes\Japan-Kisogawa\Working\Map\data_raster\Japan-Kisogawa_5-6.tif</SourceFilename>
+      <SourceBand>3</SourceBand>
+      <SourceProperties RasterXSize="8083" RasterYSize="6901" DataType="Byte" BlockXSize="8083" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="8083" ySize="6901" />
+      <DstRect xOff="32332" yOff="34505" xSize="8083" ySize="6901" />
+    </SimpleSource>
+    <SimpleSource resampling="nearest">
+      <SourceFilename relativeToVRT="0">D:\Games\Condor2\Landscapes\Japan-Kisogawa\Working\Map\data_raster\Japan-Kisogawa_6-1.tif</SourceFilename>
+      <SourceBand>3</SourceBand>
+      <SourceProperties RasterXSize="8083" RasterYSize="6901" DataType="Byte" BlockXSize="8083" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="8083" ySize="6901" />
+      <DstRect xOff="40415" yOff="0" xSize="8083" ySize="6901" />
+    </SimpleSource>
+    <SimpleSource resampling="nearest">
+      <SourceFilename relativeToVRT="0">D:\Games\Condor2\Landscapes\Japan-Kisogawa\Working\Map\data_raster\Japan-Kisogawa_6-2.tif</SourceFilename>
+      <SourceBand>3</SourceBand>
+      <SourceProperties RasterXSize="8083" RasterYSize="6901" DataType="Byte" BlockXSize="8083" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="8083" ySize="6901" />
+      <DstRect xOff="40415" yOff="6901" xSize="8083" ySize="6901" />
+    </SimpleSource>
+    <SimpleSource resampling="nearest">
+      <SourceFilename relativeToVRT="0">D:\Games\Condor2\Landscapes\Japan-Kisogawa\Working\Map\data_raster\Japan-Kisogawa_6-3.tif</SourceFilename>
+      <SourceBand>3</SourceBand>
+      <SourceProperties RasterXSize="8083" RasterYSize="6901" DataType="Byte" BlockXSize="8083" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="8083" ySize="6901" />
+      <DstRect xOff="40415" yOff="13802" xSize="8083" ySize="6901" />
+    </SimpleSource>
+    <SimpleSource resampling="nearest">
+      <SourceFilename relativeToVRT="0">D:\Games\Condor2\Landscapes\Japan-Kisogawa\Working\Map\data_raster\Japan-Kisogawa_6-4.tif</SourceFilename>
+      <SourceBand>3</SourceBand>
+      <SourceProperties RasterXSize="8083" RasterYSize="6901" DataType="Byte" BlockXSize="8083" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="8083" ySize="6901" />
+      <DstRect xOff="40415" yOff="20703" xSize="8083" ySize="6901" />
+    </SimpleSource>
+    <SimpleSource resampling="nearest">
+      <SourceFilename relativeToVRT="0">D:\Games\Condor2\Landscapes\Japan-Kisogawa\Working\Map\data_raster\Japan-Kisogawa_6-5.tif</SourceFilename>
+      <SourceBand>3</SourceBand>
+      <SourceProperties RasterXSize="8083" RasterYSize="6901" DataType="Byte" BlockXSize="8083" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="8083" ySize="6901" />
+      <DstRect xOff="40415" yOff="27604" xSize="8083" ySize="6901" />
+    </SimpleSource>
+    <SimpleSource resampling="nearest">
+      <SourceFilename relativeToVRT="0">D:\Games\Condor2\Landscapes\Japan-Kisogawa\Working\Map\data_raster\Japan-Kisogawa_6-6.tif</SourceFilename>
+      <SourceBand>3</SourceBand>
+      <SourceProperties RasterXSize="8083" RasterYSize="6901" DataType="Byte" BlockXSize="8083" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="8083" ySize="6901" />
+      <DstRect xOff="40415" yOff="34505" xSize="8083" ySize="6901" />
+    </SimpleSource>
+  </VRTRasterBand>
+</VRTDataset>
