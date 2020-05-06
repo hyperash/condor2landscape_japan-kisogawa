@@ -1,0 +1,34 @@
+<VRTDataset rasterXSize="43016" rasterYSize="43016">
+  <SRS dataAxisToSRSAxisMapping="1,2">PROJCS["WGS 84 / UTM zone 53N",GEOGCS["WGS 84",DATUM["WGS_1984",SPHEROID["WGS 84",6378137,298.257223563,AUTHORITY["EPSG","7030"]],AUTHORITY["EPSG","6326"]],PRIMEM["Greenwich",0,AUTHORITY["EPSG","8901"]],UNIT["degree",0.0174532925199433,AUTHORITY["EPSG","9122"]],AUTHORITY["EPSG","4326"]],PROJECTION["Transverse_Mercator"],PARAMETER["latitude_of_origin",0],PARAMETER["central_meridian",135],PARAMETER["scale_factor",0.9996],PARAMETER["false_easting",500000],PARAMETER["false_northing",0],UNIT["metre",1,AUTHORITY["EPSG","9001"]],AXIS["Easting",EAST],AXIS["Northing",NORTH],AUTHORITY["EPSG","32653"]]</SRS>
+  <GeoTransform>  6.2698760960598104e+05,  1.0712294837857945e+00,  0.0000000000000000e+00,  3.9332170954354443e+06,  0.0000000000000000e+00, -1.0712294837857945e+00</GeoTransform>
+  <VRTRasterBand dataType="Byte" band="1">
+    <ColorInterp>Red</ColorInterp>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">Japan-Kisogawa_raster_warped.vrt</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="44920" RasterYSize="46733" DataType="Byte" BlockXSize="512" BlockYSize="128" />
+      <SrcRect xOff="947" yOff="1863" xSize="43016" ySize="43016" />
+      <DstRect xOff="0" yOff="0" xSize="43016" ySize="43016" />
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Byte" band="2">
+    <ColorInterp>Green</ColorInterp>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">Japan-Kisogawa_raster_warped.vrt</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="44920" RasterYSize="46733" DataType="Byte" BlockXSize="512" BlockYSize="128" />
+      <SrcRect xOff="947" yOff="1863" xSize="43016" ySize="43016" />
+      <DstRect xOff="0" yOff="0" xSize="43016" ySize="43016" />
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Byte" band="3">
+    <ColorInterp>Blue</ColorInterp>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="1">Japan-Kisogawa_raster_warped.vrt</SourceFilename>
+      <SourceBand>3</SourceBand>
+      <SourceProperties RasterXSize="44920" RasterYSize="46733" DataType="Byte" BlockXSize="512" BlockYSize="128" />
+      <SrcRect xOff="947" yOff="1863" xSize="43016" ySize="43016" />
+      <DstRect xOff="0" yOff="0" xSize="43016" ySize="43016" />
+    </SimpleSource>
+  </VRTRasterBand>
+</VRTDataset>
